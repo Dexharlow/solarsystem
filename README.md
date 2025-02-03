@@ -12,13 +12,6 @@ Stunning Visuals: A galaxy background with twinkling stars and a glowing Sun.
 
 Educational: Learn interesting facts about each planet in our solar system.
 
-Technologies Used 🛠️
-HTML: Structure of the web page.
-
-CSS: Styling and animations (e.g., planet orbits, hover effects).
-
-JavaScript: Interactivity (e.g., displaying planet details on hover/touch).
-
 
 Project Structure 📂
 
@@ -27,10 +20,15 @@ Project Structure 📂
 solar-system/
 
 │
+
 ├── index.html          # Main HTML file
+
 ├── styles.css          # CSS for styling and animations
+
 ├── script.js           # JavaScript for interactivity
+
 ├── README.md           # Project documentation
+
 └── assets/             # (Optional) Folder for images or other assets
 
 Customization 🎨
@@ -39,11 +37,7 @@ Add More Planets: You can add more celestial bodies (e.g., moons, asteroids) by 
 Change Animation Speeds: Adjust the animation-duration property in the CSS to change the speed of planetary orbits.
 
 Enhance Details: Add more detailed information about each planet, such as size, distance from the Sun, and fun facts.
-
-Screenshots 📸
-Solar System Screenshot
-Example of the Solar System in action.
-
+.
 Contributing 🤝
 Contributions are welcome! If you'd like to improve this project, feel free to:
 
